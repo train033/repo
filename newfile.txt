@@ -1,2 +1,1 @@
-hello we are inside newfile 
-go hello
+hello world
